@@ -14,3 +14,7 @@
 # Історія положень
 
 Реєстр положень →  [history/README.md](history/README.md)
+
+# Зовнішні відносини
+
+Реєстр зв’язків →  [relations/README.md](relations/README.md)
