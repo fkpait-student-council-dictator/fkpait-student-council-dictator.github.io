@@ -10,3 +10,7 @@
 - [Положення про Студентську раду](rulesstudrada.md)
 - [Положення про студентське самоврядування](selfgovstudents.md)
 - [Положення про контрольно-ревізійну комісію](auditstudents.md)
+
+# Історія положень
+
+Реєстр положень →  [history/README.md](history/README.md)
